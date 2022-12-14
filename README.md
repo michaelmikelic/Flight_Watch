@@ -15,6 +15,10 @@ To run this application clone the files from github onto your PC and then run it
 ## Powerpoint Presentation
 [Powerpoint Presentation Link](https://docs.google.com/presentation/d/1AIt3gZWgNYsvvmt_Jqu_qvACLfcbmMH6KEj_2TK4jzk/edit#slide=id.g320332ed93_1_0)
 
+## Credits Disclaimer
+This project used a Lazy Regrssor regression that does a regressor model and shows the result.  For more information refer to our Powerpoint Presentation and the following Lazy Prediction Library that we used.  [Lazy Prediction](https://www.analyticsvidhya.com/blog/2021/06/flight-price-prediction-a-regression-analysis-using-lazy-prediction/)
+
+
 ## Github and Project Creators
 This code was built using [Github Location](https://github.com/michaelmikelic/Flight_Watch)
 <br>
